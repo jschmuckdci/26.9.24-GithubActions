@@ -2,15 +2,15 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '1 * * * *' #every minute of the hour
-  workflow_dispatch:    #allow manual trigger from actions tab
+    - cron: '1 * * * *' # Every Minute of the hour
+  workflow_dispatch:  # Allow manual trigger from actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
+    steps: 
       - name: Checkout repository content
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3  
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -22,19 +22,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Execute Python script
+      - name: Execute python script
         run: python main.py
 
       - name: Commit changes
-        run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "Github Action"
-        if [ -f log.txt ]; then
-          git add log.txt
-          git commit -m "Update the log.txt file"
-        else
-          echo "log.txt is not available"
+        run: | 
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          if [ -f log.txt ]; then
+            git add log.txt
+            git commit -m "Update the log.txt"
+          else
+            echo "log.txt is not available"
 
       - name: Push changes
         run: |
           git push
+        
+
+
+
+            
+            
