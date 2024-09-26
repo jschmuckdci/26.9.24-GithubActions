@@ -1998,3 +1998,203 @@ Company name: Biomatch GmbH
 Position: Teamleitung Produktionstechnik (m/w/d)
 Company name: CurveDesign GmbH 
 Position: Developer - Node.js (m/w/d)
+Company name: Lilium 
+Position: Category Manager Avionics & Electronics
+Company name: GS Company GmbH & Co. KG 
+Position: Mitarbeiter (m/w/d) Fördermittelabrechnung
+Company name: ANGEHEUERT Recruiting 
+Position: Regulatory Affairs Consultant - Medizintechnik (m/w/d)
+Company name: ANGEHEUERT Recruiting 
+Position: Regulatory Affairs Consultant - Medizintechnik (m/w/d)
+Company name: ANGEHEUERT Recruiting 
+Position: Regulatory Affairs Consultant - Medizintechnik (m/w/d)
+Company name: Green Value Management 
+Position: Working Student - Geospatial Analyst
+Company name: plancraft GmbH 
+Position: Marketing Operations Manager:in - SaaS/ B2B (f/m/d)
+Company name: deepeye Medical GmbH 
+Position: (Junior) Software Engineer (Fullstack/Cloud) - Medical Software (w/m/d)
+Company name: Lionment 
+Position: Abteilungsleitung - Konstruktion und Auftragsbearbeitung (m/w/d)
+Company name: MANAGBL AI UG 
+Position: Customer Success Manager für AI Proptech (Remote/Berlin)
+Company name: juniqe 
+Position: Backend Entwickler (Symfony) m/w/d (München)
+Company name: univativ GmbH 
+Position: Qualitätsmanager (m/w/d) Supply Chain
+Company name: eRocket GmbH 
+Position: Business Central/Microsoft Dynamics NAV Entwickler (m/w/x) 60 % Remote
+Company name: BRUDERKOPF GmbH & Co. KG 
+Position: Senior Qlik BI Consultant (m/w/d)
+Company name: BRUDERKOPF GmbH & Co. KG 
+Position: Qlik Consultant (m/w/d)
+Company name: Widgetbook 
+Position: Founders Associate | Working Student (m/w/d)
+Company name: LIONSCOUT GROUP 
+Position: Consultant SAP SD
+Company name: ForTech Consulting GmbH 
+Position: Senior Frontend Developer (gn) - Cybersecurity
+Company name: LIONSCOUT GROUP 
+Position: Consultant SAP PP
+Company name: Widgetbook 
+Position: Founders Associate Intern (m/w/d)
+Company name: Medical Magnesium GmbH 
+Position: Zerspanungsmechaniker (m/w/d) für Prototypenfertigung aus Magnesium in der Medizintechnik
+Company name: strategie:p personalberatung 
+Position: Softwareentwickler PHP (m/w/d)
+Company name: strategie:p personalberatung 
+Position: IT-Projektmanager (m/w/d)
+Company name: Wavestone Germany AG 
+Position: Netzwerkadministrator (m/w/d) (Ref.Nr.: 42979)
+Company name: Institut Dr. Ziemer 
+Position: Marketingassistent:in
+Company name: immocloud GmbH 
+Position: Werkstudent Marketing (m/w/d)
+Company name: GFN GmbH 
+Position: Trainees (m/w/x) als IT-Dozent (m/w/x)
+Company name: Salesfive GmbH 
+Position: (Senior) Salesforce Developer
+Company name: Salesfive GmbH 
+Position: (Senior) Salesforce Developer
+Company name: Salesfive GmbH 
+Position: (Senior) Salesforce Developer
+Company name: Salesfive GmbH 
+Position: (Senior) Salesforce Developer
+Company name: Dirk Kremer Consulting 
+Position: Projektleiter TGA Energie-u. Gebäudetechnik (g*)
+Company name: ErgotherapieWildenhayn 
+Position: Ergotherapeut m/ w/ d
+Company name: 900 GRAD Steuerberatung 
+Position: Steuerfachangestellte/r / Finanzbuchhalter/in (m/w/d) mit DATEV-Kenntnissen
+Company name: RaiseNow AG 
+Position: Product Manager (w/d/m) Platform
+Company name: Vanatari International GmbH 
+Position: Product Marketing Manager for Spain - Vegan Food Supplements
+Company name: Studydrive GmbH 
+Position: Performance Marketing Manager (all genders)
+Company name: Wemolo GmbH 
+Position: Senior Product Manager Hardware (all genders)
+Company name: Schulz Farben- und Lackfabrik GmbH 
+Position: Elektroniker für Betriebstechnik und Instandhaltung
+Company name: Volksbank Uelzen-Salzwedel eG 
+Position: Individualkundenberatung Salzwedel (m/w/d)
+Company name: Volksbank Uelzen-Salzwedel eG 
+Position: Individualkundenberatung Rosche/Bad Bodenteich (m/w/d)
+Company name: 42 Wolfsburg / Berlin 
+Position: Tech Intern 42 Wolfsburg (Full Time)
+Company name: Foerster & Thelen Marktforschung 
+Position: Interviewer (m/w/d) für Passanten-Befragungen in Unna
+Company name: Foerster & Thelen Marktforschung 
+Position: Interviewer (m/w/d) für Passanten-Befragungen in Koblenz
+Company name: Contarini Ingenieure GbR 
+Position: Projekt-Kapitän: (Fach-)Bauüberwacher Bahn (IOH & STE) gesucht
+Company name: We Love X GmbH 
+Position: SEO Content Manager (m/d/f) - Remote
+Company name: Peak Ace AG 
+Position: Content Marketing Manager - French speaking (m/f/x)
+Company name: Peak Ace AG 
+Position: Content Marketing Manager - French speaking (m/w/d)
+Company name: voiio GmbH 
+Position: Customer Service Manager:in in Teilzeit
+Company name: Fensterbau Matzerath 
+Position: Fenster- und Rolladenmonteur/in (m/w/d)
+Company name: BERODE GmbH 
+Position: Werkstudent*in Social Media (w/m/d) in Teilzeit
+Company name: Applike Group GmbH 
+Position: Director of Product (f/m/d)
+Company name: SolarEdge 
+Position: Simulation engineer FEM electric motor for electric drives (m/f/d)
+Company name: Soley GmbH 
+Position: Werkstudent Digital Marketing (w/m/d)
+Company name: edataprocessing GmbH 
+Position: Personalberater (w/m/d)
+Company name: Riverstate Premium Recruiting 
+Position: Servicetechniker Elektro -42k (m/w/d)
+Company name: Personalberatung ANGEHEUERT GmbH 
+Position: HR Administrator (m/w/d) - Schwerpunkt Lohnbuchhaltung
+Company name: PowerOut 
+Position: Unternehmensnachfolge Personalberatung Bad Liebenzell  gesucht!
+Company name: Zeitgeist Watch 
+Position: Werkstudent*in im Social Media & Project Management (m/w/d)
+Company name: pro curatos UG (haftungsbeschränkt) 
+Position: Vertriebs-/Marketing-Mitarbeiter (m/w/d) auf Minijob-Basis (15 €/Stunde + Sachbezug)
+Company name: Personalberatung ANGEHEUERT GmbH 
+Position: HR Admin & Payroll Expert (mIwId)
+Company name: Collaboration Betters The World GmbH 
+Position: Business Unit Manager (m/w/d)
+Company name: Swiss Interim Management GmbH 
+Position: IT Application Manager PLM, SAP ECTR
+Company name: Riverstate Premium Recruiting 
+Position: Projektleiter TGA Versorgungstechnik 75-90k (m/w/d)
+Company name: Personalberatung ANGEHEUERT GmbH 
+Position: People & Culture Specialist (mIwId) -  Fokus Lohnverrechnung
+Company name: Swiss Interim Management GmbH 
+Position: IT Administrator CAD - PTC Creo (m/f/d) 100%
+Company name: Annette Wittram - AWi Personalvermittlung und Bewerbercoaching 
+Position: Niederlassungsleitung Medicalsparte (gn) am Standort Düsseldorf
+Company name: Sinus - Büro für Kommunikation GmbH 
+Position: Kaufmännische Projektverwaltung
+Company name: Annette Wittram - AWi Personalvermittlung und Bewerbercoaching 
+Position: Niederlassungsleitung (gn) am Standort Berlin
+Company name: Annette Wittram - AWi Personalvermittlung und Bewerbercoaching 
+Position: Niederlassungsleitung (gn) am Standort Hamburg
+Company name: TruckHero HR GmbH 
+Position: Deutschlandweit Monteur mit Reisebereitschaft (international)
+Company name: 1KOMMA5˚ 
+Position: Engineering Manager - Platform Engineering
+Company name: Endgame Entertainment GmbH 
+Position: Werkstudent*in (m,w,d) im Bereich Medienmanagement & Social Media
+Company name: NES Global Deutschland GmbH / NES Fircroft 
+Position: Field Service Bioprocess Engineer EMEA (m/w/d)
+Company name: Ditenso Consulting 
+Position: IT - Administrator (m/w/d) - Corporate Functions
+Company name: Intercon Solutions GmbH 
+Position: Cloud - Docker - Kubernetes Entwickler (m/w/d)
+Company name: Bolt Technology 
+Position: Staff Data Scientist, Investment Modelling
+Company name: Billie 
+Position: Senior Content Marketing Manager & Copywriter (English Speaking) (w/m/d)
+Company name: Billie 
+Position: Data Analytics Scientist (w/m/d)
+Company name: Atolls 
+Position: Account Manager (m/f/x) - German Speaker
+Company name: HR Com GmbH 
+Position: SAP SuccessFactors Consultant (m/w/d)
+Company name: Start To Finish Consulting GmbH 
+Position: E-Mail Marketing Manager  (m/w/d)
+Company name: Personalstrategie GmbH 
+Position: Lead Mechatroniker/ Elektroniker m/w/d
+Company name: Vivira Health Lab 
+Position: Sales Operations & Enablement Manager (m/w/d)
+Company name: CTG Consulting GmbH 
+Position: Senior Performance Marketing Manager (m/w/d)
+Company name: BabyFORTE Medical GmbH 
+Position: Strategic Marketing Manager (m/w/d)
+Company name: Mimacom Deutschland GmbH 
+Position: IT Support Specialist (1st and 2nd Level) (m/f/d)
+Company name: Lisa Automobile GmbH 
+Position: Monteur / Caravan Techniker / Kfz - Mechaniker: in
+Company name: goodigoo GmbH 
+Position: Sales Manager (m/w/d) - Remote (bundesweit) ab Nov/Dez 2024
+Company name: Zara 
+Position: Visual Commercial (m/w/d) in Bremen
+Company name: Joma Betriebsgesellschaft 
+Position: Spezialist HR Administration & Buchhaltung / The Brain (m/w/d)
+Company name: HomeToGo 
+Position: [DE] Head of Performance Marketing (m/f/d) - Getaway Group
+Company name: HomeToGo 
+Position: [DE] Senior (Full-Stack) Engineer (m/f/d) - KurzMalWeg
+Company name: Financial Service VS GmbH 
+Position: Finanzanlagenvermittler (§ 34f), Kapitalanlagenvermittler (§34c) und Versicherungsvermittler (§34d)
+Company name: GONDER Group 
+Position: Personalsachbearbeiter:in (m/w/d)
+Company name: Qdrant 
+Position: Senior Solution Architect
+Company name: RITTER Starkstromtechnik GmbH & Co. KG 
+Position: Elektroniker / Techniker / Meister als Leiter Service & Wartung (m/w/d)
+Company name: CTG Consulting GmbH 
+Position: (Junior) HR Consultant PALTRON (all genders) // Hamburg (hybrid)
+Company name: Pinck Ingenieure Consulting GmbH & Co. KG 
+Position: Projektingenieur für die Planung von heizungs- und kältetechnischer Anlagen (w/m/d)
+Company name: Biomatch GmbH 
+Position: Teamleitung Produktionstechnik (m/w/d)
