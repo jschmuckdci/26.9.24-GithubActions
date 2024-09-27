@@ -3198,3 +3198,203 @@ Company name: edataprocessing GmbH
 Position: Personalberater (w/m/d)
 Company name: Riverstate Premium Recruiting 
 Position: Servicetechniker Elektro -42k (m/w/d)
+Company name: Focon Showtechnic 
+Position: Product Manager:in (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Assistenz (m/w/d) - Compliance
+Company name: MY Humancapital GmbH 
+Position: Qualitätsmanager (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Elektroniker (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Helfer (m/w/d) Gewerbe
+Company name: MY Humancapital GmbH 
+Position: Sachbearbeiter (m/w/d) - Reisekosten
+Company name: MY Humancapital GmbH 
+Position: Sachbearbeiter (m/w/d) - Bank
+Company name: MY Humancapital GmbH 
+Position: DevOps Engineer (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Fullstack Entwickler (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Elektriker (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Techniker (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Systemingenieur (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Technischen Projektingenieur  (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: KfZ-Mechaniker (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Industriemechaniker (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Personalsachbearbeiter (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Steuerfachwirt (m/w/d) in Teilzeit
+Company name: MY Humancapital GmbH 
+Position: Buchhalter (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Junior Recruiter (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Praktikant (m/w/d) – Recruiting
+Company name: MY Humancapital GmbH 
+Position: Praktikant (m/w/d) im HR Management
+Company name: MY Humancapital GmbH 
+Position: Teamleiter (m/w/d) Kundenservice
+Company name: MY Humancapital GmbH 
+Position: IT-Systemadministrator (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Personalsachbearbeiter (m/w/d) in Voll- und Teilzeit
+Company name: MY Humancapital GmbH 
+Position: Call Center Agent (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Debitorenbuchhalter (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Controller (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Sachbearbeiter (m/w/d) Rechnungswesen
+Company name: MY Humancapital GmbH 
+Position: Sachbearbeiter (m/w/d) Forderungsmanagement
+Company name: MY Humancapital GmbH 
+Position: Wirtschaftsprüfungsassistent (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: SAP Administrator (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Junior Fullstack Entwickler (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: IT-Support (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: SAP Consultant (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Junior Controller (m/w/d)
+Company name: MY Humancapital GmbH 
+Position: Controller (m/w/d) im Öffentlichen Dienst
+Company name: MY Humancapital GmbH 
+Position: Referent (m/w/d) international Projektfinanzen
+Company name: DiCommerce GmbH 
+Position: Key Account / E-Commerce Manager für Amazon Vendor Business (m/w/d)
+Company name: BRUDERKOPF GmbH & Co. KG 
+Position: Leitung Finanzen & Controlling mit IT-Verantwortung (m/w/d)
+Company name: Wikimedia Foundation 
+Position: Lead Product Manager, AI
+Company name: LUBYO 
+Position: Marketing Lead (all genders)
+Company name: refundrebel 
+Position: Business Travel Consultant (m/w/d)
+Company name: BadenCampus GmbH & Co. KG 
+Position: Investment Principal (with Partner horizon; part-time possible)
+Company name: Conzia GmbH 
+Position: Co-Founder Business Development for an eCommerce Agency
+Company name: Lilium 
+Position: Category Manager Avionics & Electronics
+Company name: GS Company GmbH & Co. KG 
+Position: Mitarbeiter (m/w/d) Fördermittelabrechnung
+Company name: ANGEHEUERT Recruiting 
+Position: Regulatory Affairs Consultant - Medizintechnik (m/w/d)
+Company name: ANGEHEUERT Recruiting 
+Position: Regulatory Affairs Consultant - Medizintechnik (m/w/d)
+Company name: ANGEHEUERT Recruiting 
+Position: Regulatory Affairs Consultant - Medizintechnik (m/w/d)
+Company name: Green Value Management 
+Position: Working Student - Geospatial Analyst
+Company name: plancraft GmbH 
+Position: Marketing Operations Manager:in - SaaS/ B2B (f/m/d)
+Company name: deepeye Medical GmbH 
+Position: (Junior) Software Engineer (Fullstack/Cloud) - Medical Software (w/m/d)
+Company name: Lionment 
+Position: Abteilungsleitung - Konstruktion und Auftragsbearbeitung (m/w/d)
+Company name: MANAGBL AI UG 
+Position: Customer Success Manager für AI Proptech (Remote/Berlin)
+Company name: juniqe 
+Position: Backend Entwickler (Symfony) m/w/d (München)
+Company name: univativ GmbH 
+Position: Qualitätsmanager (m/w/d) Supply Chain
+Company name: eRocket GmbH 
+Position: Business Central/Microsoft Dynamics NAV Entwickler (m/w/x) 60 % Remote
+Company name: BRUDERKOPF GmbH & Co. KG 
+Position: Senior Qlik BI Consultant (m/w/d)
+Company name: BRUDERKOPF GmbH & Co. KG 
+Position: Qlik Consultant (m/w/d)
+Company name: Widgetbook 
+Position: Founders Associate | Working Student (m/w/d)
+Company name: LIONSCOUT GROUP 
+Position: Consultant SAP SD
+Company name: ForTech Consulting GmbH 
+Position: Senior Frontend Developer (gn) - Cybersecurity
+Company name: LIONSCOUT GROUP 
+Position: Consultant SAP PP
+Company name: Widgetbook 
+Position: Founders Associate Intern (m/w/d)
+Company name: Medical Magnesium GmbH 
+Position: Zerspanungsmechaniker (m/w/d) für Prototypenfertigung aus Magnesium in der Medizintechnik
+Company name: strategie:p personalberatung 
+Position: Softwareentwickler PHP (m/w/d)
+Company name: strategie:p personalberatung 
+Position: IT-Projektmanager (m/w/d)
+Company name: Wavestone Germany AG 
+Position: Netzwerkadministrator (m/w/d) (Ref.Nr.: 42979)
+Company name: Institut Dr. Ziemer 
+Position: Marketingassistent:in
+Company name: immocloud GmbH 
+Position: Werkstudent Marketing (m/w/d)
+Company name: GFN GmbH 
+Position: Trainees (m/w/x) als IT-Dozent (m/w/x)
+Company name: Salesfive GmbH 
+Position: (Senior) Salesforce Developer
+Company name: Salesfive GmbH 
+Position: (Senior) Salesforce Developer
+Company name: Salesfive GmbH 
+Position: (Senior) Salesforce Developer
+Company name: Salesfive GmbH 
+Position: (Senior) Salesforce Developer
+Company name: Dirk Kremer Consulting 
+Position: Projektleiter TGA Energie-u. Gebäudetechnik (g*)
+Company name: ErgotherapieWildenhayn 
+Position: Ergotherapeut m/ w/ d
+Company name: 900 GRAD Steuerberatung 
+Position: Steuerfachangestellte/r / Finanzbuchhalter/in (m/w/d) mit DATEV-Kenntnissen
+Company name: RaiseNow AG 
+Position: Product Manager (w/d/m) Platform
+Company name: Vanatari International GmbH 
+Position: Product Marketing Manager for Spain - Vegan Food Supplements
+Company name: Studydrive GmbH 
+Position: Performance Marketing Manager (all genders)
+Company name: Wemolo GmbH 
+Position: Senior Product Manager Hardware (all genders)
+Company name: Schulz Farben- und Lackfabrik GmbH 
+Position: Elektroniker für Betriebstechnik und Instandhaltung
+Company name: Volksbank Uelzen-Salzwedel eG 
+Position: Individualkundenberatung Salzwedel (m/w/d)
+Company name: Volksbank Uelzen-Salzwedel eG 
+Position: Individualkundenberatung Rosche/Bad Bodenteich (m/w/d)
+Company name: 42 Wolfsburg / Berlin 
+Position: Tech Intern 42 Wolfsburg (Full Time)
+Company name: Foerster & Thelen Marktforschung 
+Position: Interviewer (m/w/d) für Passanten-Befragungen in Unna
+Company name: Foerster & Thelen Marktforschung 
+Position: Interviewer (m/w/d) für Passanten-Befragungen in Koblenz
+Company name: Contarini Ingenieure GbR 
+Position: Projekt-Kapitän: (Fach-)Bauüberwacher Bahn (IOH & STE) gesucht
+Company name: We Love X GmbH 
+Position: SEO Content Manager (m/d/f) - Remote
+Company name: Peak Ace AG 
+Position: Content Marketing Manager - French speaking (m/f/x)
+Company name: Peak Ace AG 
+Position: Content Marketing Manager - French speaking (m/w/d)
+Company name: voiio GmbH 
+Position: Customer Service Manager:in in Teilzeit
+Company name: Fensterbau Matzerath 
+Position: Fenster- und Rolladenmonteur/in (m/w/d)
+Company name: BERODE GmbH 
+Position: Werkstudent*in Social Media (w/m/d) in Teilzeit
+Company name: Applike Group GmbH 
+Position: Director of Product (f/m/d)
+Company name: SolarEdge 
+Position: Simulation engineer FEM electric motor for electric drives (m/f/d)
+Company name: Soley GmbH 
+Position: Werkstudent Digital Marketing (w/m/d)
+Company name: edataprocessing GmbH 
+Position: Personalberater (w/m/d)
+Company name: Riverstate Premium Recruiting 
+Position: Servicetechniker Elektro -42k (m/w/d)
