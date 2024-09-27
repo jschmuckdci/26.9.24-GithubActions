@@ -5198,3 +5198,203 @@ Company name: DR. HARTMUTH & PARTNER
 Position: Projektentwickler (m/w/d) Windenergie Onshore
 Company name: Matera GmbH 
 Position: Praktikant*in Kundenberatung | Scaling Phase
+Company name: ANNISVIEW 
+Position: Influencer Marketing Manager (m/w/d) in Vollzeit
+Company name: Grossmann Uhren GmbH 
+Position: Assistent/-in für Marketing und Kommunikation (m/w/d)
+Company name: cc.systems GmbH 
+Position: Werkstudent:in UI Design (m/w/d)
+Company name: kr3m. media GmbH 
+Position: SENIOR ONLINE REDAKTEUR (W/M/D)
+Company name: univativ GmbH 
+Position: (Junior) Projektplaner (m/w/d) Instandhaltung
+Company name: univativ GmbH 
+Position: (Junior) Fertigungsingenieur (m/w/d) Prozessoptimierung
+Company name: univativ GmbH 
+Position: Werkstudent (m/w/d) IT-Projektassistenz
+Company name: univativ GmbH 
+Position: Werkstudent (m/w/d) IT Support und IT Management
+Company name: baind AG 
+Position: Product Werkstudent (w/m/d)
+Company name: univativ GmbH 
+Position: Werkstudent (m/w/d) Industrial Engineering
+Company name: univativ GmbH 
+Position: (Junior) IT-Service-Manager (m/w/d)
+Company name: Personalberatung ANGEHEUERT GmbH 
+Position: ABAP Entwickler (m/w/d) für Online-Shops
+Company name: univativ GmbH 
+Position: (Junior) IT Solution Architect (m/w/d) Digitalisierung
+Company name: Personalberatung ANGEHEUERT GmbH 
+Position: SAP Developer ABAP (m/w/d)
+Company name: NES Global Deutschland GmbH / NES Fircroft 
+Position: Devops Engineer E-Cockpit Plattform Team (m/w/d)
+Company name: univativ GmbH 
+Position: (Junior) Maschinenbauingenieur (m/w/d)
+Company name: Evermood 
+Position: Software Engineer, Ruby on Rails [w/m/d]
+Company name: Evermood 
+Position: Lead Software Engineer, Ruby on Rails [w/m/d]
+Company name: BALLEYWASL 
+Position: PAID SOCIAL-MEDIA MANAGER:IN (M/W/D) (Voll- oder Teilzeit)
+Company name: ANGEHEUERT Recruiting 
+Position: ABAP Entwickler (m/w/d)
+Company name: Lux Allclean Reinigungs- und Umwelt-Technik GmbH Lux Generalvertretung Deutschland / Österreich / Polen 
+Position: Marketing Mitarbeiter / Medienfachwirt
+Company name: Computer System GmbH Ilmenau 
+Position: Technischer Redakteur (m/w/d) für den Maschinen- und Anlagenbau
+Company name: Computer System GmbH Ilmenau 
+Position: Fachinformatiker - Systemintegration für Infrastrukturlösungen (m/w/d)
+Company name: Hahn & Herden Netzdenke GbR 
+Position: Online-Marketing-Manager Google Ads (m/w/d)
+Company name: Bohne GmbH 
+Position: Technischer Consultant für Agentur - 80k. - 100% Remote
+Company name: allebacker Schulte GmbH 
+Position: Mitarbeiter Buchhaltung
+Company name: Silbury Deutschland GmbH 
+Position: Auszubildender zum Fachinformatiker (all genders) für Anwendungsentwicklung 2025
+Company name: Formation Search GmbH 
+Position: Trainee (Recruitment Consultant) m/w/d
+Company name: Annette Hoppmann Consulting 
+Position: Personaldisponent (w/m/d) in Neuss
+Company name: Wavestone Germany AG 
+Position: SAP ARIBA Solution Architect (m/w/d) (Ref.Nr.: 42993)
+Company name: Advine GmbH 
+Position: Rolloutmanager Automotive Digital IT / E-Commerce (w/m/d)
+Company name: ACM AIR CHARTER Luftfahrtgesellschaft mbH 
+Position: Mitarbeiter/in CAMO (m/w/d)
+Company name: ACM AIR CHARTER Luftfahrtgesellschaft mbH 
+Position: Fluggerätmechaniker Instandhaltungstechnik / EASA Part 66 Certifying Staff CAT-B1 (m/w/d)
+Company name: Sophies Friseure 
+Position: Ausbildung im Friseurhandwerk
+Company name: PWA Dr. Haufe GmbH 
+Position: IT - Junior Administrator:in
+Company name: Bolt Technology 
+Position: Scooters Mechanic
+Company name: Flix 
+Position: Senior Revenue Accounting Manager
+Company name: Lilium 
+Position: EWIS Systems Engineer
+Company name: Lilium 
+Position: Software Engineer – HIL Simulator
+Company name: minimi 
+Position: Praktikum Legal Tech (w/m/x) - KI, Recht, Remote
+Company name: DIE MAtCHERIN - Marie Kornhoff 
+Position: Sachbearbeiter Buchhaltung (m/w/d)
+Company name: DIE MAtCHERIN - Marie Kornhoff 
+Position: Teamleiter Buchhaltung (m/w/d)
+Company name: think about IT GmbH 
+Position: Ausbildung zum Fachinformatiker Systemintegration (m/w/d)
+Company name: DIE MAtCHERIN - Marie Kornhoff 
+Position: Debitorenbuchhalter (m/w/d)
+Company name: think about IT GmbH 
+Position: SAP MM Inhouse Consultant (m/w/d)
+Company name: DIE MAtCHERIN - Marie Kornhoff 
+Position: Personalsachbearbeiter Lohn und Gehalt (m/w/d)
+Company name: Silbury Deutschland GmbH 
+Position: Nachhaltigkeitsberater (all genders)
+Company name: think about IT GmbH 
+Position: Mitarbeiter Technischer Service (m/w/d)
+Company name: Silbury Deutschland GmbH 
+Position: Senior Java Backend Entwickler (all genders)
+Company name: Silbury Deutschland GmbH 
+Position: Projektleiter Nachhaltigkeit (all genders)
+Company name: LAP COFFEE - Micro Retail Technologies GmbH 
+Position: Chief of Staff (m/f/d)
+Company name: think about IT GmbH 
+Position: Senior IT-System Engineer mit Schwerpunkt MS Azure/M365 (m/w/d)
+Company name: Ingenieurbüro Eggersmann GmbH 
+Position: Bauingenieur (d/m/w)
+Company name: think about IT GmbH 
+Position: IT-Administrator mit Schwerpunkt IT-Security (m/w/d)
+Company name: hey contact heroes GmbH 
+Position: Supervisor im (m/w/d) im Kundenservice - 100% Home-Office
+Company name: think about IT GmbH 
+Position: Service Desk Spezialist (m/w/d)
+Company name: think about IT GmbH 
+Position: DevOps Architect mit Schwerpunkt Automatisierung (m/w/d)
+Company name: hey contact heroes GmbH 
+Position: Teamleiter (m/w/d) im Kundenservice - 100% Remote (Home-Office)
+Company name: think about IT GmbH 
+Position: Mitarbeiter Inside Sales (m/w/d)
+Company name: Picnic 
+Position: Nachwuchsführungskraft Logistik (m/w/d) Hannover
+Company name: pivotfox GmbH 
+Position: Buchhalter/in für Projektarbeit und Beratung (m/w/d)
+Company name: STEIN Promotions GmbH 
+Position: Senior Account Manager/in (m/w/d) Shopper Marketing
+Company name: hey contact heroes GmbH 
+Position: Manager/in Planung & Steuerung im Customer Service (m/w/d) (100% Homeoffice)
+Company name: antonius : gemeinsam Mensch 
+Position: Projektkoordinator / Sachbearbeiter Eingliederungshilfe (m/w/d)
+Company name: O'Donnell Moonshine 
+Position: Aushilfe Store (w/m/d)
+Company name: Nitrado (marbis GmbH) 
+Position: Game Integration Specialist (Software Engineer) (m/w/d)
+Company name: momox 
+Position: Pricing Manager (m/f/d)
+Company name: Regonius GmbH 
+Position: Datenerfassungsmitarbeiter:in - 100% Remote
+Company name: LEANNOVA GmbH 
+Position: Karrierestart für Finanztalente (m/w/d) - Werde ERP-Berater im Finanzbereich
+Company name: Container xChange 
+Position: Backend Engineer (f/m/d)
+Company name: Container xChange 
+Position: Backend Engineer (f/m/d)
+Company name: O'Donnell Moonshine 
+Position: Aushilfe Store (w/m/d)
+Company name: O'Donnell Moonshine 
+Position: Aushilfe Store für die Weihnachtszeit (w/m/d)
+Company name: Vaayu 
+Position: LCA Specialist
+Company name: XIAO Beteiligungsgesellschaft mbH 
+Position: Haustechniker (m/w/d)
+Company name: Cognitivo AG 
+Position: Senior IT-Projektmanager (m/w/d)
+Company name: LIONSCOUT GROUP 
+Position: M365 Senior Consultant (m/f/x) - FULL REMOTE
+Company name: em-faktor - Die Social Profit Agentur GmbH 
+Position: Text & Konzept/Junior Creative Director*in (m/w/d)
+Company name: Clariness GmbH 
+Position: Office Manager / Feel Good Manager (m/w/d) - Hamburg
+Company name: Cognitivo AG 
+Position: Software-Engineer (m/w/d)
+Company name: Health365 AC GmbH 
+Position: IT-Digitalisierungsexpert*in
+Company name: Quaker Houghton 
+Position: Fluidcare Technician
+Company name: Wodzak.Littig Personalberatung 
+Position: Teamleitung Qualitätssicherung (m/w/d)
+Company name: letswerk - Matthias Fränz 
+Position: Area Manager (m/w/d) Nürburg
+Company name: Wunderkidz GmbH 
+Position: Werkstudent:in | Influencer Marketing
+Company name: letswerk - Matthias Fränz 
+Position: Area Manager (m/w/d) Limburg an der Lahn
+Company name: Satisloh GmbH 
+Position: Servicetechniker Coating (m/w/d)
+Company name: Plutos Vermögensverwaltung AG 
+Position: Werkstudent (m/w/d) im Marketing
+Company name: letswerk - Matthias Fränz 
+Position: Area Manager (m/w/d) Neuwied
+Company name: PARROT MEDIA GmbH 
+Position: IT-Support- und Projektkoordinator (m/w/d) in Vollzeit
+Company name: letswerk - Matthias Fränz 
+Position: Area Manager (m/w/d) Koblenz
+Company name: letswerk - Matthias Fränz 
+Position: Area Manager (m/w/d) Mainz
+Company name: Rocka Sports GmbH 
+Position: Senior Growth Marketing Manager (m/w/d)
+Company name: Yukawa Exponential GmbH 
+Position: Project Manager Software Development (m/f/d)
+Company name: KoRo Handels GmbH 
+Position: Teamleiter:in Kreditoren- und Hauptbuchhaltung (m/w/d)
+Company name: KoRo Handels GmbH 
+Position: Team Lead Accounts Payables & General Ledger (m/f/d)
+Company name: KoRo Handels GmbH 
+Position: Team Lead Receivables Management (m/f/d)
+Company name: HighCoordination GmbH 
+Position: (Pflicht-) Praktikant / Werkstudent (w/m/d) im Kaufmännischer Bereich (HR, Marketing, Finance) Standort: Singen
+Company name: ScanHaus Marlow GmbH 
+Position: Mitarbeiter Finanzbuchhalter / Steuerfachangestellten (m/w/d)
+Company name: univativ GmbH 
+Position: Ingenieur Projektmanagement (m/w/d) Elektrotechnik Schiffbau
